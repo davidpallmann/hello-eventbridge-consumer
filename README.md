@@ -1,6 +1,6 @@
 # Hello, EventBridge!
 
-This is the code project for the [Hello, EventBridge!]https://davidpallmann.hashnode.dev/hello-eventbridge) blog post. 
+This is the code project for the [Hello, EventBridge!](https://davidpallmann.hashnode.dev/hello-eventbridge) blog post. 
 
 This episode: Amazon EventBridge and event-based processing. In this Hello, Cloud blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
